@@ -26,7 +26,11 @@ Aqui estão alguns dos meus projetos:
 
 1. Mobidata(link): 
 2. Portfólio(link): 
+<br>
 
+<a href="https://github.com/FelipeBotelhoo" title="Perfil do Felipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBotelhoo&theme=cobalt&show_icons=true&title_color=3498DB" />
+</a>
 
 
 ## 📫 Contato
