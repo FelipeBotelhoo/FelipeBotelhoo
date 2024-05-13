@@ -17,11 +17,7 @@
 <img src="https://github.com/FelipeBotelhoo/FelipeBotelhoo/blob/main/perfil.png?raw=true" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 Sou Felipe, um desenvolvedor Full Stak. Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma variedade de projetos e contribuições que refletem minha paixão pela tecnologia e pelo código. <br>
-
 <br>
-
-
-
 Contato: <a href="https://github.com/FelipeBotelhoo">
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="Ícone do GitHub" width="24px" height="24px"/>
 </a>   <a href="https://www.linkedin.com/in/felipe-botelho-167554255/">
