@@ -32,12 +32,9 @@ Contato: <a href="https://github.com/FelipeBotelhoo">
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>ﾠﾠ<img src="https://img.icons8.com/office/48/000000/react.png"/>ﾠﾠ<img src="https://img.icons8.com/color/48/000000/ionic.png"/>ﾠﾠ<img src="https://img.icons8.com/fluent/48/000000/laravel.png"/>ﾠﾠ<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>ﾠﾠ<img src="https://img.icons8.com/color/48/000000/express.png"/>ﾠﾠ<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>ﾠﾠ<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>ﾠﾠ<img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/> </div>
 
-###  Projetos Principais
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=FelipeBotelhoo&repo=Mobidata&border_color=0000FF&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)](https://github.com/FelipeBotelhoo/Mobidata)
 
-<p align="left">
-  <a href="https://github.com/FelipeBotelhoo?tab=repositories" target="_blank"><img alt="Repositórios" title="Repositórios" src="https://img.shields.io/badge/-Repositórios-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+[![Portfólio](https://img.shields.io/badge/👨‍💻_Portfólio-1E90FF?style=for-the-badge)](https://devfelipeap.vercel.app/)
+
 
 <br/>
 <hr/>
